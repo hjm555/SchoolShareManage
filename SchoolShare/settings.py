@@ -81,8 +81,8 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'schoolshare',
-        'USER': 'root',
-        'PASSWORD': 'admin',
+        'USER': 'hjm',
+        'PASSWORD': 'hjm123',
         'HOST': 'localhost',
         'PORT': '3306',
     }
